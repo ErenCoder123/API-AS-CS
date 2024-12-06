@@ -1,0 +1,1 @@
+Para rodar o projeto, é necessário usa o comando dotnet run no terminal, e acessar a api utilizando o localhost. Também é necessário adicionar as informações referente as tabelas de dados no corpo em JSON.
