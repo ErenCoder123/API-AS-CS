@@ -3707,11 +3707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miguel\\Documents\\facul\\aulasC\\projeto-as-api\\projeto\\AS.csproj",
+      "projectUniqueName": "C:\\Users\\miguel\\Documents\\facul\\CSmiguel\\projeto-as\\AS.csproj",
       "projectName": "AS",
-      "projectPath": "C:\\Users\\miguel\\Documents\\facul\\aulasC\\projeto-as-api\\projeto\\AS.csproj",
+      "projectPath": "C:\\Users\\miguel\\Documents\\facul\\CSmiguel\\projeto-as\\AS.csproj",
       "packagesPath": "C:\\Users\\miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miguel\\Documents\\facul\\aulasC\\projeto-as-api\\projeto\\obj\\",
+      "outputPath": "C:\\Users\\miguel\\Documents\\facul\\CSmiguel\\projeto-as\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
